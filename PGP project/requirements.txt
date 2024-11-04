@@ -1,0 +1,3 @@
+cryptography
+pycryptodome
+PyQt5
