@@ -46,3 +46,7 @@ The selected functionalities create a header for each message, which is then ana
 - **Python**  
 - **PyQt** (for the GUI)
 - **PGP encryption standards**
+
+## Team Collaboration  
+This project is developed as a team effort. The contributor is:  
+- [@User1](https://github.com/scurovic)
