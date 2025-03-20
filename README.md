@@ -28,6 +28,9 @@ The selected functionalities create a header for each message, which is then ana
 - **Key Rings**: A structure that manages public and private keys for signing and encryption.
 - **Radix64 Encoding**: Ensures email compatibility by converting messages into a format suitable for email transmission.
 
+## Team  
+This project was developed as a team effort by my friend and me.
+
 ## Installation  
 1. Clone the repository:
     ```bash
